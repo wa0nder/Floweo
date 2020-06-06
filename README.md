@@ -1,2 +1,2 @@
 # Floweo
-live UI editor written in JavaScript
+HTML UI editor written in JavaScript
