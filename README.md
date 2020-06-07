@@ -1,7 +1,7 @@
 # Floweo.js
 HTML UI editor written in JavaScript
 
-----------------------------------
+_____________________________________________
 Please Read First!
 
 This code remains in a work-in-progress state with all that that entails. Here's a sample of some needed changes:
@@ -13,10 +13,10 @@ This code remains in a work-in-progress state with all that that entails. Here's
 - some tweaks to the declarative JSON syntax for clarity, brevity, organization, etc.
 - overall better organization
 
-For further details regarding the "why" behind this state of affairs please see my website: __________
+For further details regarding the "why" behind this state of affairs please see my website: [ ]
 
 Further, this code was written in 2011 with pre-ES2015 syntax; that means no computed property names for object literals, no for...of loops, destructuring assignment, etc. etc.
-----------------------------------
+_____________________________________________
 
 To load and play around with this code just download the 'editor demo' folder then open and load the 'editor.html' file in a browser.
 
