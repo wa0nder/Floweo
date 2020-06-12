@@ -1,4 +1,3 @@
-//OeO Co.
 //February 20, 2011 - Revision 2 (March 10, 2011)
 
 ///////////////////
