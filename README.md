@@ -15,7 +15,7 @@ This code remains in a work-in-progress state with all that that entails. Here's
 - some tweaks to the declarative JSON syntax for clarity, brevity, organization, etc.
 - overall better organization
 
-For further details regarding the "why" behind this state of affairs please see my website: [ ]
+For further details regarding the "why" behind this state of affairs please see my website's 'Web Development Era' section: https://www.clarityncode.com/p/1.html
 
 Further, this code was written in 2011 with pre-ES2015 syntax; that means no computed property names for object literals, no for...of loops, destructuring assignment, etc. etc.
 _____________________________________________
