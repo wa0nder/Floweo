@@ -6,7 +6,7 @@ Scene graph UI editor written in JavaScript
 _____________________________________________
 Please Read First!
 
-This code remains in a work-in-progress state with all that that entails. Here's a sample of some needed changes:
+This repository is merely for <b>demonstrating proof-of-concept. This is experimental code left in a work-in-progress state with all that that entails</b>. Here's a sample of some needed changes if it were meant for production (it isn't):
 
 - better variable naming
 - more thorough code comments
