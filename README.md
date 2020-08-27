@@ -20,6 +20,10 @@ For further details regarding the "why" behind this state of affairs please see 
 Further, this code was written in 2011 with pre-ES2015 syntax; that means no computed property names for object literals, no for...of loops, destructuring assignment, etc. etc.
 _____________________________________________
 
+## jsFiddle Version
+Editor commands are below. Fullscreen demo is [here](https://jsfiddle.net/waonder/qnvse7ca/5/show).
+
+## Local Disk Version
 To load and play around with this code just download the 'editor demo' folder then open and load the 'editor.html' file in a browser.
 
 With the exception of the text 'Floweo Editor v.1.0' and the neighboring text field, everything on screen is draggable to allow
